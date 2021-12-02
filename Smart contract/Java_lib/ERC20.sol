@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 contract TokenERC20 {
     string public Evmos-test;
     string public Evmos ;
-    uint8 public decimals;
+    uint8 public EVM;
     uint256 public 100000000;
 
     mapping (address => uint256) public balanceOf;
